@@ -1,4 +1,4 @@
-### 🎵 AI Music Recommender
+## 🎵 AI Music Recommender
 A smart and personalized music recommendation system powered by machine learning and content-based filtering. This AI-driven app suggests songs based on user preferences, enhancing the listening experience by analyzing track features like genre, tempo, mood, and more.
 
 ## 🚀 Features
